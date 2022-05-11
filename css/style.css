@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: #d6e2f0;
+    
+}
+.qr{
+    height: 405px;
+    width: 245px;
+    background-color: #fff;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+.image{
+    width: 100%;
+    border-radius: 10px;
+
+}
+.align{
+    padding: 10px;
+}
+body{
+    font-family: 'Outfit', sans-serif;
+}
+.texto-grande{
+    font-weight: 700;
+    font-size: 18px;
+}
+.texto-medio{
+    font-weight: 400;
+    font-size: 15px;
+    color: #9d9fa4;
+   
+}
+.align2{
+    padding: 5px 10px  ;
+}
